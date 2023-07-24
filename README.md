@@ -13,13 +13,13 @@ https://raw.githubusercontent.com/amankharwal/Website-data/master/payment_fraud.
 - matplotlib
 - seaborn
 - scikit-learn
-  -- LabelEncoder
-  -- train_test_split
-  -- RandomizedSearchCV
-  -- LogisticRegression
-  -- accuracy_score
-  -- confusion_matrix
-  -- classification_report
+  - LabelEncoder
+  - train_test_split
+  - RandomizedSearchCV
+  - LogisticRegression
+  - accuracy_score
+  - confusion_matrix
+  - classification_report
 - xgboost
 
   -----------------------------------------------------------------------------------------------------------------------------------
